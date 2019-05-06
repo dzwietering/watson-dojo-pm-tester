@@ -125,14 +125,6 @@ Use Ctrl-click on the Deploy to `IBM Cloud` button below to open the deployment 
 
 * The Watson Machine Learning service is now listed as one of your `Associated Services`.
 
-* Click on the `Settings` tab for the project, scroll down to `Associated services` and click `+ Add service` ->  `Spark`.
-
-* Either choose and `Existing` Spark service, or create a `New` one
-
-  ![](https://raw.githubusercontent.com/IBM/pattern-images/master/watson-studio/add_existing_spark_service.png)
-
-  ![](https://raw.githubusercontent.com/IBM/pattern-images/master/watson-studio/add_new_spark_service.png)
-
 * Leave the browser tab open for later.
 
 ### 4. Save the credentials for your Watson Machine Learning Service
@@ -151,7 +143,7 @@ Use Ctrl-click on the Deploy to `IBM Cloud` button below to open the deployment 
 * Select the `From URL` tab.
 * Enter a name for the notebook.
 * Optionally, enter a description for the notebook.
-* Under `Notebook URL` provide the following url: [https://github.com/IBM/predictive-model-on-watson-ml/blob/master/notebooks/predictiveModel.ipynb](https://github.com/IBM/predictive-model-on-watson-ml/blob/master/notebooks/predictiveModel.ipynb)
+* Under `Notebook URL` provide the following url: [https://github.com/dzwietering/watson-dojo-pm-tester/blob/master/notebooks/ML%20Predictive%20Model.ipynb](https://github.com/dzwietering/watson-dojo-pm-tester/blob/master/notebooks/ML%20Predictive%20Model.ipynb)
 * Select the Spark runtime with Python 3.5 .
 * Click the `Create` button.
 
