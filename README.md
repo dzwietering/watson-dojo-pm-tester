@@ -93,7 +93,7 @@ Use Ctrl-click on the Deploy to `IBM Cloud` button below to open the deployment 
 * Sign up for IBM's [Watson Studio](https://dataplatform.cloud.ibm.com/).
 * Create a new project by clicking `+ New project` and choosing `Data Science`:
 
-![](https://github.com/IBM/pattern-utils/tree/master/watson-studio/CreateDataScienceProject.png)
+![](https://raw.githubusercontent.com/IBM/pattern-images/master/watson-studio/CreateDataScienceProject.png)
 
 > Note: By creating a project in Watson Studio a free tier `Object Storage` service will be created in your IBM Cloud account. Take note of your service names as you will need to select them in the following steps.
 
@@ -147,7 +147,7 @@ Use Ctrl-click on the Deploy to `IBM Cloud` button below to open the deployment 
 * Select the Spark runtime with Python 3.5 .
 * Click the `Create` button.
 
-  ![](doc/source/images/create-spark-notebook.png)
+  ![](doc/source/images/New%20Spark%20notebook.jpg)
 
 ### 6. Run the notebook in IBM Watson Studio
 
